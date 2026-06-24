@@ -9,3 +9,7 @@ userName = "maruf";
 isActivate = true;
 console.log(`Your id: ${userId}, userName: ${userName}`);
 console.log(userName.toUpperCase());
+function display() {
+    console.log("Hi! I am display");
+}
+display();
